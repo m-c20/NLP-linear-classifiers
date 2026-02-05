@@ -38,3 +38,5 @@ As general NLP studies state, both Logistic Regression and Naive Bayes in NLP ha
 
 ## References
 - General NLP references and corpora (anonymous for privacy)  
+## Dataset
+- not provided in this repo.
