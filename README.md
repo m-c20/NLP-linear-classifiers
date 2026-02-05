@@ -28,6 +28,7 @@ As general NLP studies state, both Logistic Regression and Naive Bayes in NLP ha
 |           | LR (uni-gram)        | 1.00  | 1.00  | 1.000 |
 |           | LR (POS Tags)        | 0.68  | 0.80  | 0.667 |
 |           | LR (stopword removal)| 0.84  | 0.80  | 0.800 |
+|-----------|----------------------|-------|-------|-------|
 | Dataset 2 | NB (uni-gram)        | 0.55  | 0.54  | 0.588 |
 |           | NB (POS Tags)        | 0.83  | 0.93  | 0.867 |
 |           | NB (stopword removal)| 0.55  | 0.57  | 0.604 |
@@ -35,5 +36,5 @@ As general NLP studies state, both Logistic Regression and Naive Bayes in NLP ha
 |           | LR (POS Tags)        | 0.89  | 1.00  | 0.918 |
 |           | LR (stopword removal)| 0.51  | 0.43  | 0.511 |
 
-**Formulas:**
-
+## References
+- General NLP references and corpora (anonymous for privacy)  
